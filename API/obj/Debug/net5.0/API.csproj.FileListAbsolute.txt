@@ -65,3 +65,6 @@ C:\Users\jovic\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityMod
 C:\Users\jovic\source\repos\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Users\jovic\source\repos\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\jovic\source\repos\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jovic\source\repos\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\jovic\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\jovic\source\repos\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
